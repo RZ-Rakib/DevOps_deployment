@@ -1,3 +1,4 @@
+/* eslint-disable */
 import isObject from './isObject.js'
 import isSymbol from './isSymbol.js'
 

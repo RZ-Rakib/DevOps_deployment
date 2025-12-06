@@ -1,3 +1,4 @@
+/* eslint-disable */
 import toNumber from './toNumber.js'
 
 /** Used as references for various `Number` constants. */

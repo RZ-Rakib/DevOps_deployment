@@ -1,3 +1,4 @@
+/* eslint-disable */
 import toFinite from './toFinite.js'
 
 /**

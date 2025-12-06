@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Clamps `number` within the inclusive `lower` and `upper` bounds.
  *
