@@ -1,3 +1,4 @@
+/* eslint-disable */
 import root from './.internal/root.js'
 
 /** Detect free variable `exports`. */
