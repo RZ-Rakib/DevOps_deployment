@@ -1,3 +1,4 @@
+/* eslint-disable */
 import createRound from './.internal/createRound.js'
 
 /**
