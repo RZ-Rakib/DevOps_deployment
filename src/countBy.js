@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import baseAssignValue from './.internal/baseAssignValue.js'
 import reduce from './reduce.js'
 

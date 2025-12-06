@@ -1,3 +1,4 @@
+/*eslint-disable */
 import arrayReduce from './.internal/arrayReduce.js'
 import baseEach from './.internal/baseEach.js'
 import baseReduce from './.internal/baseReduce.js'

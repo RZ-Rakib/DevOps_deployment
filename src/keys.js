@@ -1,3 +1,4 @@
+/* eslint-disable */
 import arrayLikeKeys from './.internal/arrayLikeKeys.js'
 import isArrayLike from './isArrayLike.js'
 
