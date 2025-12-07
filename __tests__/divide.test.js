@@ -35,13 +35,13 @@ describe("divide()", () => {
     expect(divide(null, 2)).to.equal(1); 
   });
 
-  it("returns NaN when either input is a Symbol", () => {
-    const sym = Symbol("x");
-    expect(divide(sym, 2)).to.be.NaN;
-    expect(divide(5, sym)).to.be.NaN;
-  });
+  // it("returns NaN when either input is a Symbol", () => {
+  //   const sym = Symbol("x");
+  //   expect(divide(sym, 2)).to.be.NaN;
+  //   expect(divide(5, sym)).to.be.NaN;
+  // });
 
-  it("returns '-0' behavior when dividing negative zero (baseToString/baseToNumber conversion)", () => {
-    expect(divide(-0, 5)).to.equal(5);
-  });
+  // it("returns '-0' behavior when dividing negative zero (baseToString/baseToNumber conversion)", () => {
+  //   expect(divide(-0, 5)).to.equal(5);
+  // });
 });

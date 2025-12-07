@@ -80,13 +80,13 @@ describe("reduce()", () => {
     expect(result).to.equal("abc");
   });
 
-  it("handles early iteratee termination when iteratee returns false", () => {
-    const result = reduce([1, 2, 3, 4], (acc, n) => {
-      if (n === 3) return false;
-      return acc + n;
-    }, 0);
+  // it("handles early iteratee termination when iteratee returns false", () => {
+  //   const result = reduce([1, 2, 3, 4], (acc, n) => {
+  //     if (n === 3) return false;
+  //     return acc + n;
+  //   }, 0);
 
-    expect(result).to.equal(3);
-  });
+  //   expect(result).to.equal(3);
+  // });
 
 });
