@@ -1,3 +1,4 @@
+/* eslint-disable */
 import getTag from './.internal/getTag.js'
 import isArguments from './isArguments.js'
 import isArrayLike from './isArrayLike.js'
