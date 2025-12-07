@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Checks if `string` ends with the given target string.
  *

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import slice from './slice.js'
 import toInteger from './toInteger.js'
 

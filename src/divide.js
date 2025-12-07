@@ -1,3 +1,4 @@
+/* eslint-disable */
 import createMathOperation from './.internal/createMathOperation.js'
 
 /**

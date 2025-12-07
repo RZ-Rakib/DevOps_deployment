@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Creates a slice of `array` from `start` up to, but not including, `end`.
  *

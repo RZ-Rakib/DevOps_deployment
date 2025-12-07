@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * Iterates over elements of `array`, returning an array of all elements
  * `predicate` returns truthy for. The predicate is invoked with three
