@@ -1,14 +1,16 @@
-# Student template
+# Software Testing Assignment
 
-## Purpose of this repository
+[![Coverage Status](https://coveralls.io/repos/github/RZ-Rakib/DevOps_deployment/badge.svg?branch=main)](https://coveralls.io/github/RZ-Rakib/DevOps_deployment?branch=main)
 
-This is a project template for students participating in Software Testing course
-at LAB University of Applied Sciences.
+## Purpose
 
-The repository only contains the source code that is under testing, `package.json` skeleton
-and LICENSE file.
+This repository contains the unit tests, CI workflow, and coverage reporting created for the Software Testing assignment at LAB University of Applied Sciences. The project includes:
 
-Source code folder contains a separate license file that must **NOT** be removed under any circumstances!
-Removing this license file directly violates terms and conditions of the software under testing.
-Individuals who remove or modify the license file will also carry the consequences.
-trigger coveralls
+- A full test suite using Mocha and Chai  
+- Automated CI pipeline using GitHub Actions  
+- Coverage reporting integrated with Coveralls  
+- Issue reports created when unexpected or inconsistent behavior was found during testing  
+
+The source code being tested comes from the provided utility library. The `.internal` folder is excluded from testing as required by the assignment.
+
+
