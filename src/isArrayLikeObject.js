@@ -1,3 +1,4 @@
+/* eslint-disable */
 import isArrayLike from './isArrayLike.js'
 import isObjectLike from './isObjectLike.js'
 

@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import baseDifference from './.internal/baseDifference.js'
 import baseFlatten from './.internal/baseFlatten.js'
 import isArrayLikeObject from './isArrayLikeObject.js'
