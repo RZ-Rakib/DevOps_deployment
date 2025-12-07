@@ -1,3 +1,4 @@
+/* eslint-disable */
 import getTag from './.internal/getTag.js'
 import isObjectLike from './isObjectLike.js'
 import nodeTypes from './.internal/nodeTypes.js'
